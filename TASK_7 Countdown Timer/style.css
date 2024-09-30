@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(images/moon.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .countdown-container {
+    text-align: center;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  #set-timer {
+    margin-top: 20px;
+  }
+  
+  #countdown {
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  #countdown div {
+    padding: 10px;
+    background-color: #4f82b8;
+    border-radius: 5px;
+  }
+  
+  .control-buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: #2865a7;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+    height: 30px;
+    width: 100px;
+    font-weight: bold;
+  }
+  
+  button:hover {
+    background-color: #030e87;
+  }
+  
+  #set-timer input, #set-timer button {
+    margin-top: 10px;
+    padding: 10px;
+  }
+  
