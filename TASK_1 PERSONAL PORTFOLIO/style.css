@@ -60,7 +60,16 @@ section {
     font-size: 2em;
     font-weight: 700;
     color: white; 
-    padding-bottom: 50px;
+    padding-bottom: 10px;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 10%;
+    object-fit: cover;
+    margin-top: 20px;
+    padding-bottom: 20px;
 }
 
 .main-button {
