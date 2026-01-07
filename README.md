@@ -35,3 +35,35 @@ An interactive task management tool. Users can type a task, add it to the list, 
 
 ### Task 4: Simple Calculator
 A web-based calculator capable of performing basic arithmetic operations (Addition, Subtraction, Multiplication, Division).
+
+### Task 7: Countdown Timer
+A time-tracking application that displays the days, hours, minutes, and seconds remaining until a specific target date.
+* **Key Concepts:** `setInterval`, JavaScript `Date` object, asynchronous updates.
+
+### Task 8: BMI Calculator
+A useful utility that calculates a user's Body Mass Index (BMI). It takes weight (kg) and height (cm/m) as input and categorizes the result (Underweight, Normal, Overweight).
+* **Key Concepts:** Mathematical logic, Conditional rendering, Form handling.
+
+---
+
+## Technologies Used
+* **HTML5**: Semantic structure and layout.
+* **CSS3**: Styling, Flexbox, Grid, and Media Queries for responsiveness.
+* **JavaScript (ES6+)**: Logic, DOM manipulation, and interactivity.
+
+---
+
+## How to Run locally
+1.  Clone this repository:
+    ```bash
+    git clone [https://github.com/NouraMaklad/CognoRise-InfoTech-Internship.git](https://github.com/NouraMaklad/CognoRise-InfoTech-Internship.git)
+    ```
+2.  Navigate to the project folder:
+    ```bash
+    cd CognoRise-InfoTech-Internship
+    ```
+3.  Open any project folder (e.g., `TASK_1 PERSONAL PORTFOLIO`) and launch `index.html` in your browser.
+
+---
+
+*Thank you to **CognoRise InfoTech** for this learning opportunity!*
