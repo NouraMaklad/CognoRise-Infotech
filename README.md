@@ -1,21 +1,17 @@
-# CognoRise InfoTech Web Development Internship 🚀
+# CognoRise InfoTech Web Development Internship 
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Internship](https://img.shields.io/badge/Internship-Web%20Development-blue)
 ![Company](https://img.shields.io/badge/Company-CognoRise%20InfoTech-orange)
 
-## 📌 Overview
+##  Overview
 This repository contains the projects I developed during my **Web Development Internship** at **CognoRise InfoTech**. 
 
 Over the course of the internship (September 2024), I focused on building responsive web applications using **HTML5**, **CSS3**, and **JavaScript**, improving my skills in DOM manipulation, algorithm logic, and UI/UX design.
 
-**👨‍💻 Intern:** Noura Moustafa Maklad  
-**📅 Duration:** September 1, 2024 – October 1, 2024  
-**🆔 Reference ID:** CRITKLC326
-
 ---
 
-## 📂 Completed Tasks
+##  Completed Tasks
 
 | Task # | Project Name | Description | Tech Stack |
 | :---: | :--- | :--- | :--- |
@@ -27,15 +23,15 @@ Over the course of the internship (September 2024), I focused on building respon
 
 ---
 
-## 💻 Project Details
+##  Project Details
 
-### 🎨 Task 1: Personal Portfolio
+### Task 1: Personal Portfolio
 A clean, responsive personal website designed to serve as a digital resume. It includes sections for "About Me," "Projects," and "Contact," featuring smooth scrolling and a mobile-friendly layout.
 * **Key Features:** Responsive navbar, CSS Flexbox layout, social media integration.
 
-### ✅ Task 2: To-Do List
+### Task 2: To-Do List
 An interactive task management tool. Users can type a task, add it to the list, mark it as "completed" with a strikethrough effect, or delete it entirely.
 * **Key Concepts:** DOM manipulation, Event Listeners, Input validation.
 
-### 🧮 Task 4: Simple Calculator
+### Task 4: Simple Calculator
 A web-based calculator capable of performing basic arithmetic operations (Addition, Subtraction, Multiplication, Division).
